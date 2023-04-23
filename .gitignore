@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+target/
+*.log
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
