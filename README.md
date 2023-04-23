@@ -7,7 +7,7 @@ ChatGPT Embedding 코사인 유사도를 측정하는 Java Maven 예제 프로�
 프로젝트 디렉토리에서 다음 명령을 실행하여 Maven 프로젝트를 빌드하세요.
 
 ```bash
-mvn clean install
+./mvnw clean install
 ```
 
 빌드를 성공적으로 완료하면, `target` 디렉토리에 JAR 파일이 생성됩니다.
